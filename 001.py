@@ -14,3 +14,8 @@ lst1.insert (0, "First")
 #print (lst1)
 lst1.append ("Second")
 print (lst1)
+
+list3 = [1,2,3,4,5,6]
+print (list3)
+sumlist = lst1+list3
+print (sumlist)
